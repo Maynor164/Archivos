@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416403880 source:/home/alumno/Proyectos/pro3/archivos/main.cpp
+	<iostream>
+	<fstream>
+
